@@ -1,4 +1,36 @@
 /* Styling */
 body {
-    background: rgba(0, 240, 194, 0.71);
+background-image: url("https://doublefeature.fm/wp-content/uploads/sites/8/jurassic-park.jpg");
+    position: relative;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+video {
+    max-width: 100%;
+    height: 100%;
+}
+
+h1 {
+    background: white;
+    
+    font-size: 2em;
+    text-align: center;
+    color: black;
+}
+
+#trailer {
+    max-width: 65%;
+    margin: auto;
+    
+}
+
+.char1 {
+    font-size: 3em;
+    color: orangered;
+}
+
+.char10 {
+    font-size: 3em;
+    color: orangered;
 }
